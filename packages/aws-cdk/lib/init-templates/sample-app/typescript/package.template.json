@@ -2,7 +2,7 @@
   "name": "%name%",
   "version": "0.1.0",
   "bin": {
-    "%name%": "bin/%name%.js"
+    "%name%": "dist/bin/%name%.js"
   },
   "scripts": {
     "build": "tsc",
